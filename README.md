@@ -1,4 +1,7 @@
 # ComputoMovil2020-2
 
+UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO.
+FACULTAD DE INGENIERÍA
+
 Cómputo Móvil.
 Semestre 2020 - 2.
